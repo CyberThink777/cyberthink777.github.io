@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hello, World.</title>
+    <link>https://ohjunseung.github.io/tags/</link>
+    <description>Recent content in Tags on Hello, World.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022 Alexander Matthew</copyright>
+    <lastBuildDate>Tue, 06 Dec 2022 12:12:05 +0700</lastBuildDate><atom:link href="https://ohjunseung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech-rant</title>
+      <link>https://ohjunseung.github.io/tags/tech-rant/</link>
+      <pubDate>Tue, 06 Dec 2022 12:12:05 +0700</pubDate>
+      
+      <guid>https://ohjunseung.github.io/tags/tech-rant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
